@@ -1,0 +1,3 @@
+target:
+  host: IP_HERE
+  thin_dir: /opt/salt-thin

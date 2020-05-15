@@ -1,0 +1,9 @@
+root_dir: ./
+
+file_roots:
+  base:
+    - states
+
+pillar_roots:
+  base:
+    - pillar
