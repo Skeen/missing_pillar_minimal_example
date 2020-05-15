@@ -7,3 +7,5 @@ file_roots:
 pillar_roots:
   base:
     - pillar
+
+master_key: master_value
